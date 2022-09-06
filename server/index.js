@@ -3,6 +3,7 @@ const cors = require("cors");
 require("dotenv").config();
 
 const sequelize = require("./db");
+const models = require("./models/models");
 
 const app = express();
 const PORT = process.env.API_PORT || 5000;
