@@ -1,1 +1,5 @@
-* validate allpost/put requests
+* not working page pagination
+* no basket 
+* all inputs can be empty
+* no home page
+* poor design
